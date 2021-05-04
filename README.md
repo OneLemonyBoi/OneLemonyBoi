@@ -6,4 +6,4 @@
 
 Hi! I'm a Minecraft Modder working on mods like MiniUtilities and XLFoodMod! Live in sunny California and enjoy no-lifing Minecraft Mod Dev.
 You can reach me on Discord at OneLemonyBoi#8093, or on Twitter at @OneLemony! :)
-**FHS2024!**
+FHS2024!
