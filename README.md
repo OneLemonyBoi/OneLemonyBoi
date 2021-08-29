@@ -1,5 +1,7 @@
 ![OneLemonyBoi's github stats](https://github-readme-stats.vercel.app/api?username=OneLemonyBoi&theme=vue-dark&show_icons=true)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=onelemonyboi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **OneLemonyBoi/OneLemonyBoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --!>
